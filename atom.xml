@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>G:/blog/output</id>
+    <title>天合社区居委会</title>
+    <updated>2019-08-09T17:28:49.716Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="G:/blog/output"/>
+    <link rel="self" href="G:/blog/output/atom.xml"/>
+    <subtitle>文字材料汇总</subtitle>
+    <logo>G:/blog/output/images/avatar.png</logo>
+    <icon>G:/blog/output/favicon.ico</icon>
+    <rights>All rights reserved 2019, 天合社区居委会</rights>
+    <entry>
+        <title type="html"><![CDATA[天合社区开展“小小牙医”职业体验活动]]></title>
+        <id>G:/blog/output/post/tian-he-she-qu-kai-zhan-xiao-xiao-ya-yi-zhi-ye-ti-yan-huo-dong/index.html</id>
+        <link href="G:/blog/output/post/tian-he-she-qu-kai-zhan-xiao-xiao-ya-yi-zhi-ye-ti-yan-huo-dong/index.html">
+        </link>
+        <updated>2019-08-08T09:38:24.000Z</updated>
+        <summary type="html"><![CDATA[<p>为增强社区青少年儿童爱牙护牙的意识，掌握口腔健康基本技能，2019年8月8日上午，天合社区联合美奥口腔医院开展了“小小牙医”职业体验活动。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>为增强社区青少年儿童爱牙护牙的意识，掌握口腔健康基本技能，2019年8月8日上午，天合社区联合美奥口腔医院开展了“小小牙医”职业体验活动。</p>
+<!-- more -->
+<p>专业牙科医生运用口腔模型与PPT形象生动地为小朋友们讲解了口腔构造及正确的刷牙方式，教会大家怎样保持口腔卫生，预防蛀牙。在场的小朋友们听得津津有味，时不时提出自己日常生活中所遇到关于牙齿的问题，医生都逐一做了解答。接着，在专业牙科医生的指导下，“小牙医”们亲自上阵体验，为别人做牙齿检查。同时，口腔医院的医生也为小朋友们进行了口腔检查，对于一些有问题的牙齿，给予了治疗意见，并告知从小保护牙齿的重要性。<br>
+本次职业体验活动对小朋友们而言，既新奇又有趣。通过此次寓教于乐的职业体验活动，不仅进一步增强了孩子们的口腔保健意识，而且也让他们熟练地掌握了正确的刷牙方式。</p>
+<p><img src="G:/blog/output/post-images/1565257714489.jpg" alt="天合社区开展“小小牙医”职业体验活动"><br>
+<img src="G:/blog/output/post-images/1565257719614.jpg" alt="天合社区开展“小小牙医”职业体验活动"></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <id>G:/blog/output/post/hello-gridea/index.html</id>
+        <link href="G:/blog/output/post/hello-gridea/index.html">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
+✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
+<!-- more -->
+<p><a href="https://github.com/getgridea/gridea">Github</a><br>
+<a href="http://hvenotes.fehey.com/">Gridea 主页</a><br>
+<a href="http://fehey.com/">示例网站</a></p>
+<h2 id="特性">特性👇</h2>
+<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
+<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
+<p>🏷️  你可以对文章进行标签分组</p>
+<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
+<p>💻  你可以在 <strong>𝖶𝗂𝗇𝖽𝗈𝗐𝗌</strong> 或 <strong>𝖬𝖺𝖼𝖮𝖲</strong> 设备上使用此客户端</p>
+<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
+<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
+<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
+<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
+<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
+<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前🏃</p>
+<p>未来，它一定会成为你离不开的伙伴</p>
+<p>尽情发挥你的才华吧！</p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天合社区党支部走访慰问老党员]]></title>
+        <id>G:/blog/output/post/d1M78dCfe/index.html</id>
+        <link href="G:/blog/output/post/d1M78dCfe/index.html">
+        </link>
+        <updated>2016-08-13T03:57:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>2016年1月13日上午天合社区党支部召开2015年度工作总结大会，其中有4位老党员由于身体原因未能参加此次会议。为进一步体现党支部对社区老党员的关爱，近日，天合社区党支部周琼书记带领社工和社区党员走访慰问了这4位老党员，给他们送去慰问品和节日祝福的同时，也为他们带去党的关怀与温暖，使他们觉得党组织没有忘记他们。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2016年1月13日上午天合社区党支部召开2015年度工作总结大会，其中有4位老党员由于身体原因未能参加此次会议。为进一步体现党支部对社区老党员的关爱，近日，天合社区党支部周琼书记带领社工和社区党员走访慰问了这4位老党员，给他们送去慰问品和节日祝福的同时，也为他们带去党的关怀与温暖，使他们觉得党组织没有忘记他们。</p>
+<!-- more -->
+<p>在83岁高龄党员谢阿姨家中，党员们与老同志促膝谈心，亲切交流，对老人的身体情况、生活状况和是否有人照顾进行了深入了解，并希望她能保重身体。谢阿姨对党员们来访表示非常高兴，并对我们这些年轻党员讲述了她在上世纪50年代就已经加入中国共产党，从一名普通教师到宁波海曙中心小学校长一直以共产党员的标准严格要求自己。在谢阿姨的讲述中，我们年轻党员感受到了一名老党员对党的信仰和高贵品质。雨雪天气将至周琼书记还不忘叮嘱谢阿姨有什么困难及时联系社区。<br>
+一句句问候、一声声叮咛，把党的温暖和节日的问候送到了老党员的心坎上，通过走访慰问，不仅联络了党员与组织的感情，同时也让年轻社工学习了如何与居民联系，让年轻党员们通过和老党员聊天学习如何提高党员素质。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天合社区党支部召开2015年度工作总结大会]]></title>
+        <id>G:/blog/output/post/tian-he-she-qu-dang-zhi-bu-zhao-kai-2015-nian-du-gong-zuo-zong-jie-da-hui/index.html</id>
+        <link href="G:/blog/output/post/tian-he-she-qu-dang-zhi-bu-zhao-kai-2015-nian-du-gong-zuo-zong-jie-da-hui/index.html">
+        </link>
+        <updated>2016-08-13T03:54:43.000Z</updated>
+        <summary type="html"><![CDATA[<p>2016年1月13日上午9点30分，天合社区党支部组织召开了2015年度工作总结大会，由社区党委书记周琼主持本次会议，社区党员、预备党员共45人参加了会议。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>2016年1月13日上午9点30分，天合社区党支部组织召开了2015年度工作总结大会，由社区党委书记周琼主持本次会议，社区党员、预备党员共45人参加了会议。</p>
+<!-- more -->
+<p>大会分为以下几个部分：<br>
+1.社区周书记对社区2015年工作进行了总结，并对2016年工作计划做了简单介绍；<br>
+2.表彰年度先进党员；<br>
+3.宣读学习《党员锋领指数考评管理工作说明》；<br>
+4.党员民主测评表填写；<br>
+5.收集党员微心愿；<br>
+6.号召党员关注天合社区微信公众号。<br>
+最后，社区党委书记周琼同志对党员们支持社区发展表示感谢，并希望社区党员充分发挥党员模范带头作用，多给社区提出合理化建议，多为社区居民群众做好事，为社区建设与发展做贡献，为党旗添新的光彩。此次共收到党员的微心愿7份，天合社区党支部将结合实际情况尽快实现这些微心愿。</p>
+]]></content>
+    </entry>
+</feed>
